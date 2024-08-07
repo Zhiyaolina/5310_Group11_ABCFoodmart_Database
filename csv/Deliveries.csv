@@ -1,0 +1,101 @@
+,Delivercompany_ID,Company_Name,Address,City,State,ZipCode,Country,Pricepercar
+0,1,Meyer-Miles,63403 Ashley Courts,Port Willie,ME,91400,US,627.01
+1,2,"Gray, Sullivan and Vazquez",1549 Daniel Cliff Apt. 451,Austinfurt,CT,63059,US,791.78
+2,3,Stark-Lopez,300 Mckinney Streets Suite 577,East Timothy,WY,97051,US,114.64
+3,4,"Cooley, Jensen and Mcpherson",2030 Vang Knolls,South Daniel,MA,15225,US,766.46
+4,5,Lawson Inc,97122 Christine Hill Apt. 410,Hillhaven,SC,89398,US,516.59
+5,6,Hodge Inc,4189 Payne Oval Apt. 474,Powellside,FM,59455,US,807.56
+6,7,Stewart and Sons,217 Curtis Mills,West Rachelberg,KY,98243,US,858.62
+7,8,"Gordon, Cox and Johnson",718 Lin Square,South John,IN,78774,US,140.73
+8,9,Rose-Flores,2016 Reyes Roads Suite 332,Lake Wendy,MA,41295,US,474.63
+9,10,Nichols and Sons,38011 Peter Parkway,Lake Nicolefurt,DC,37322,US,733.94
+10,11,"Martin, Harvey and Jones",940 Laura Crescent Apt. 021,New Darrell,FM,21169,US,382.55
+11,12,Wolfe-Nelson,3942 Baker Lodge Apt. 272,Shannonfort,NJ,37581,US,751.69
+12,13,Barker-Humphrey,7714 Johnathan Fork Suite 250,Jeffreychester,ME,04826,US,781.62
+13,14,Ryan-Miles,38402 Elizabeth Islands,Scotttown,OK,78019,US,504.95
+14,15,Carter Ltd,505 Brian Skyway,Williamsland,ME,50706,US,827.05
+15,16,Martin LLC,80510 Andrew Trafficway,Marissafort,DE,71239,US,407.2
+16,17,Cole-Grimes,00608 Daniel Underpass Apt. 998,Hansenton,MS,63807,US,926.3
+17,18,"Meyer, Braun and Lewis",618 Jared Glens,Joshuaside,MA,11699,US,829.01
+18,19,"Dixon, Horton and Johnson",0762 Randall Flat,Port Ashley,NE,44439,US,289.96
+19,20,Charles-Rich,7884 Moore Canyon Suite 791,Kirkport,OK,79015,US,170.4
+20,21,"Knox, Gibson and Mendez",4383 Moore Avenue,New Christopherfort,OH,80407,US,983.97
+21,22,Obrien and Sons,4952 Turner Well,Woodton,MN,36303,US,333.39
+22,23,Jarvis Inc,068 Bell Estate Apt. 247,Johnsonview,ND,09454,US,706.07
+23,24,Edwards Ltd,21743 Johnson Via Apt. 566,Ryanland,MP,39748,US,490.42
+24,25,Ortiz and Sons,767 James Squares,Paultown,FL,41547,US,116.12
+25,26,"Holmes, Carter and Price",640 Garcia Wells,New Shawn,DE,88709,US,455.44
+26,27,Martinez-Sellers,91010 David Glens,South Matthewton,VT,26480,US,111.97
+27,28,"Hanson, Mcknight and Tran",02175 Holloway Street Apt. 552,South Benjaminfurt,IA,35841,US,690.22
+28,29,"Richardson, Gomez and Chan",72592 Thomas Grove Apt. 318,Lake Loriport,OR,53751,US,514.15
+29,30,Rollins-Myers,3081 Jared Cliffs,West Brandonchester,SD,16633,US,464.58
+30,31,"Neal, Cooper and Wong",22469 Eric Stream Suite 413,North Alexandria,MT,04745,US,691.95
+31,32,Garcia-Mitchell,030 Ross Prairie,Kristybury,WI,22796,US,769.82
+32,33,Oliver-Shaffer,263 Stout Ridges Suite 213,New Alexport,OR,49422,US,753.32
+33,34,Booker Ltd,9668 Cox Ports Suite 060,Hayesfort,WA,55850,US,372.52
+34,35,Graham-Young,271 Laura Extensions Apt. 887,South Vanessahaven,PR,67469,US,831.82
+35,36,Elliott-Campos,8310 Catherine Vista,Thompsonmouth,HI,63480,US,655.07
+36,37,Davis-Barker,46986 Lee Forks,West Matthewfurt,MT,47925,US,721.6
+37,38,Roy Group,8238 Schultz Mountains,East Robertton,NV,84148,US,966.83
+38,39,"Reese, Cross and Porter",7952 Wendy Isle,Lake Katherine,NV,50634,US,707.59
+39,40,Carter and Sons,8017 Jennifer Junctions Apt. 234,East Charles,RI,35821,US,824.18
+40,41,"Hall, Coleman and White",900 Thomas Drive,Castroberg,SC,48149,US,178.87
+41,42,"Aguilar, Lee and Douglas",524 Jennifer Place,Michelleville,MT,44333,US,221.6
+42,43,Nichols and Sons,077 Michael Flats Suite 918,New Kelly,WI,39959,US,271.72
+43,44,Thompson-Foster,34070 Hudson Well Apt. 955,New Elizabeth,MO,39103,US,834.37
+44,45,Cameron Group,0132 Smith Ports,Wheelertown,IL,57869,US,726.43
+45,46,Miller PLC,1129 Willis Plaza Apt. 371,East John,HI,78313,US,269.4
+46,47,Potter-Ball,9501 Murray Islands Apt. 582,Danielville,IL,76470,US,124.13
+47,48,"Jimenez, Holmes and Oneal",1410 Cummings Forge Suite 015,West Judith,ME,94878,US,533.01
+48,49,May-Fox,42905 Joseph Pass,Justinburgh,NE,28523,US,230.64
+49,50,"Davis, Rollins and Johnson",149 Smith Square Suite 621,Georgemouth,WY,96442,US,317.6
+50,51,"Ellis, Mcdonald and Tran",16689 Michael Crossing,West Courtney,MH,31929,US,857.88
+51,52,Oneill Group,397 Morgan Plain,Claudiatown,PW,36252,US,872.37
+52,53,"Zamora, Rowland and Gillespie",07745 Webster Trail,Rebeccafurt,PA,16859,US,584.72
+53,54,Lawson and Sons,82027 Murphy Inlet Suite 530,Mariatown,MH,04567,US,177.48
+54,55,Jones and Sons,32792 Walker Groves,Connorshire,CO,98347,US,792.75
+55,56,Ellis Inc,850 Martinez Knolls Suite 482,South Michael,MA,57989,US,233.35
+56,57,"Flores, Figueroa and Woods",8345 Green Passage Suite 331,Greenefort,SC,68391,US,479.69
+57,58,Harris and Sons,9486 Brown Pine,New Joshuaburgh,AS,95923,US,204.81
+58,59,Baker LLC,6124 Mcintosh Harbors Apt. 146,Andersonbury,IN,71988,US,912.17
+59,60,"Riley, Thompson and Williams",952 Chapman Road Apt. 150,East Samuelstad,MA,93708,US,764.9
+60,61,"Price, Watson and Alexander",3606 Miller Village Suite 400,Josephmouth,WA,97807,US,500.74
+61,62,"Harris, Brown and Nicholson",6230 Spencer Burgs,Floresbury,KY,76855,US,536.54
+62,63,Steele-Thompson,3626 Lisa Springs,Johnhaven,TN,64891,US,117.67
+63,64,Hays-Flores,045 Parsons Place,Elizabethmouth,CA,24832,US,504.56
+64,65,"Pope, Flores and Fox",838 Phillips Track Suite 401,North Sharon,NV,57699,US,318.37
+65,66,Singleton-Cox,4864 Mark Street Apt. 514,Jameshaven,SD,79433,US,365.35
+66,67,Daniels PLC,251 Silva Coves Suite 066,Morrisfort,DE,89880,US,846.51
+67,68,"Walker, Huff and Small",84492 Philip Fall Apt. 552,Schmidtborough,NE,46504,US,452.56
+68,69,Jackson Inc,998 Olson Inlet Suite 009,East Sara,MH,98338,US,400.47
+69,70,Miranda-Campos,83121 Richardson Drive,South Timothyland,AS,34454,US,192.4
+70,71,"Macdonald, Shea and Wilson",13846 Mary Street,Spencerchester,PR,23085,US,862.87
+71,72,Brown LLC,98669 Julian Pine,New Patrickburgh,VT,96384,US,488.61
+72,73,Cervantes-Medina,28096 Robinson Street Suite 514,Smithview,GU,78917,US,474.12
+73,74,Heath Ltd,96853 Bradley Highway Suite 749,New Susanville,NM,07943,US,546.13
+74,75,Lang PLC,0332 Walter Locks,Jennifershire,VI,13756,US,620.8
+75,76,Bailey-Adkins,533 Rebecca Loop Apt. 971,Bradleyshire,MP,57162,US,757.97
+76,77,"Taylor, Brown and Morris",540 Angela Spurs Apt. 378,Brownstad,VI,61489,US,999.12
+77,78,"Blackburn, King and Frederick",90270 Laura Views Suite 660,Jeffreymouth,TX,23732,US,133.32
+78,79,Estrada-Schroeder,2622 Bradley Brooks Suite 604,Griffinland,DE,60667,US,459.71
+79,80,"Hernandez, Williams and Key",44385 Vega Branch Suite 671,Lake Antonio,PR,73081,US,562.02
+80,81,"Martin, Hall and Whitehead",92271 Delgado Squares,Rothville,AK,80952,US,752.15
+81,82,"Barton, Johnson and Day",15034 Alice Ferry,South Johnburgh,VI,08029,US,941.75
+82,83,"Murray, Lee and Gonzales",92469 Vincent Passage,Gonzalezberg,DE,01456,US,914.57
+83,84,"Martinez, Townsend and Rodriguez",9358 Roberts Estate Suite 529,Elizabethville,AS,96212,US,880.87
+84,85,"Mccarthy, Stevens and Smith",505 Ann Cliff Apt. 285,Wellsberg,IN,33762,US,308.72
+85,86,Hernandez Ltd,260 Shannon Mission Suite 842,Reyeston,KS,64326,US,154.63
+86,87,Wolfe PLC,9627 Rush Green,Kaufmanborough,CA,27241,US,117.12
+87,88,Perry Group,5302 Valerie Motorway,Williamfurt,WY,36741,US,618.76
+88,89,Russell-Oconnor,699 Kevin Harbor Apt. 558,East Annaville,VA,77702,US,597.93
+89,90,Olson PLC,014 Carter Circles Apt. 752,East Ianton,RI,42020,US,341.06
+90,91,"Ortiz, Strong and Vega",634 David Fall,East Nicholastown,ND,14540,US,683.47
+91,92,Cherry-Huffman,9592 Walls Summit,Greenview,OR,88294,US,900.23
+92,93,Smith Group,06542 Sparks Motorway Apt. 178,Sheltonstad,KY,72907,US,205.25
+93,94,Blackburn-Butler,8192 Tonya Shoal,Lake Lisaborough,FL,31287,US,660.43
+94,95,Martin-Potter,1851 Aaron Place Suite 194,Barrettshire,NJ,91819,US,681.56
+95,96,Armstrong-Griffin,39095 King Roads Suite 142,West Willieland,ND,28124,US,503.49
+96,97,"Duarte, Reeves and Smith",6545 Christopher Garden Suite 291,Margaretstad,NE,66551,US,492.61
+97,98,"Browning, Young and Webster",970 Patricia Estates,Julietown,VI,25584,US,245.2
+98,99,Pugh Group,6960 Joseph Creek Apt. 412,Katrinamouth,PW,67764,US,753.59
+99,100,Williams-Hicks,1764 James Heights,Charlesview,GU,96314,US,522.32

@@ -1,0 +1,501 @@
+,EmployeeID,FirstName,LastName,Position,StoreID,HireDate,Salary
+0,1,Danielle,Johnson,Security,1,2021-04-07,32250.97
+1,2,Jeffrey,Doyle,Clerk,2,2023-02-10,50088.97
+2,3,Patricia,Miller,Security,1,2021-12-09,90902.95
+3,4,Anthony,Robinson,Janitorial Staff,1,2022-04-28,83144.33
+4,5,Anthony,Gonzalez,Manager,1,2022-12-27,38432.57
+5,6,Amy,Robinson,Cashier,5,2022-09-16,84181.69
+6,7,Lisa,Smith,Janitorial Staff,2,2023-09-15,94441.77
+7,8,Helen,Peterson,Security,5,2020-09-18,67756.78
+8,9,Susan,Rogers,Butcher,5,2020-06-04,55037.16
+9,10,Colin,Abbott,Manager,2,2022-10-11,92832.55
+10,11,Lindsay,Blair,Clerk,3,2022-06-19,43993.15
+11,12,Teresa,Gray,Clerk,1,2022-07-16,38347.13
+12,13,Maria,Montgomery,Manager,3,2023-12-18,106274.49
+13,14,Barbara,Bush,Janitorial Staff,3,2020-03-17,102641.54
+14,15,Jeremy,Roberts,Security,4,2020-05-14,78260.53
+15,16,Jesse,Garcia,Butcher,1,2021-04-11,79683.66
+16,17,Cynthia,Diaz,Security,5,2021-09-13,109690.66
+17,18,Jason,Adams,Clerk,5,2024-04-22,47305.97
+18,19,Deborah,Lynch,Manager,1,2020-10-14,89513.7
+19,20,Jessica,Martin,Clerk,1,2021-09-29,106978.59
+20,21,Veronica,Bowman,Manager,4,2022-07-24,55017.62
+21,22,Gabrielle,Cameron,Security,3,2023-07-27,44638.87
+22,23,Jeremy,Johnson,Clerk,2,2021-06-13,90315.77
+23,24,Joseph,Clark,Security,1,2024-05-03,84821.79
+24,25,Nancy,Edwards,Cashier,5,2023-01-06,95621.41
+25,26,Randall,Rocha,Cashier,4,2022-02-09,64150.99
+26,27,Joseph,Wright,Security,5,2022-08-01,49765.37
+27,28,Jose,Richards,Clerk,1,2024-02-17,50614.33
+28,29,Reginald,Robinson,Manager,3,2024-08-02,66104.83
+29,30,William,Davis,Manager,2,2020-03-20,112182.25
+30,31,Daniel,Burton,Janitorial Staff,3,2023-08-23,49136.39
+31,32,Robert,Brown,Butcher,4,2021-10-03,109621.48
+32,33,Wendy,Rice,Security,4,2024-06-19,42858.44
+33,34,Michelle,Smith,Cashier,2,2023-04-25,97049.01
+34,35,Erin,Herrera,Janitorial Staff,3,2021-03-24,97231.24
+35,36,Danielle,Rodriguez,Butcher,5,2021-12-31,65946.05
+36,37,Shawn,Mckay,Cashier,2,2024-01-11,75857.37
+37,38,Jose,Mason,Manager,1,2020-10-27,107499.26
+38,39,Rita,Harrell,Cashier,2,2021-05-16,101287.14
+39,40,Danielle,Lynch,Butcher,5,2020-09-13,35717.49
+40,41,Kathryn,Ryan,Butcher,5,2023-08-01,119650.92
+41,42,Alyssa,Smith,Janitorial Staff,3,2021-06-28,117397.05
+42,43,Andrew,Hickman,Manager,1,2024-01-16,91353.93
+43,44,Marie,Parker,Janitorial Staff,3,2020-04-07,99173.89
+44,45,Natalie,Arroyo,Clerk,1,2020-05-23,56415.01
+45,46,Todd,Jones,Cashier,4,2023-07-01,30292.08
+46,47,Katie,Anderson,Security,3,2022-03-09,117469.93
+47,48,Andrea,Baker,Cashier,5,2024-01-05,112136.51
+48,49,Rodney,Lewis,Security,3,2022-06-25,105750.24
+49,50,Jessica,Harris,Janitorial Staff,5,2021-06-07,47902.0
+50,51,Wanda,Santos,Clerk,2,2022-01-06,78544.11
+51,52,Zachary,Martinez,Janitorial Staff,1,2021-01-12,83905.01
+52,53,Matthew,Chapman,Butcher,1,2021-01-21,40068.1
+53,54,Jeffrey,Jones,Clerk,3,2022-11-26,51550.71
+54,55,Jeremy,Whitehead,Cashier,5,2023-12-15,115225.45
+55,56,Chad,Young,Manager,4,2023-01-28,103442.09
+56,57,Jason,Anderson,Janitorial Staff,2,2024-04-20,41555.23
+57,58,Ashley,Kennedy,Butcher,5,2023-08-11,44861.43
+58,59,Lindsey,Lee,Janitorial Staff,5,2020-06-11,68082.41
+59,60,Ryan,Henderson,Cashier,5,2022-02-23,97973.87
+60,61,Jessica,Nunez,Security,2,2024-07-11,94165.41
+61,62,Corey,Powell,Butcher,3,2021-07-24,69429.01
+62,63,Michelle,Wright,Janitorial Staff,4,2020-11-15,40890.38
+63,64,Shane,Henderson,Cashier,1,2021-04-12,60427.7
+64,65,John,Leblanc,Janitorial Staff,5,2022-01-14,50710.33
+65,66,Michelle,Pierce,Cashier,1,2020-03-25,36389.38
+66,67,Yvette,Huff,Security,1,2024-06-15,50604.76
+67,68,Sara,Allison,Manager,3,2020-10-06,36377.16
+68,69,Todd,Lewis,Cashier,3,2021-11-04,90208.0
+69,70,Brian,Gray,Cashier,5,2024-07-13,41908.07
+70,71,Joseph,Bowers,Janitorial Staff,5,2022-02-03,72540.39
+71,72,Rodney,Bernard,Butcher,4,2024-07-30,47136.89
+72,73,Angela,Higgins,Manager,4,2020-09-17,61886.78
+73,74,Kenneth,Novak,Butcher,4,2022-08-31,107745.31
+74,75,Amy,Adkins,Manager,1,2020-04-06,35455.14
+75,76,Breanna,Shaw,Security,3,2023-12-03,102053.33
+76,77,Eric,Yu,Manager,2,2020-05-14,47243.11
+77,78,Jacob,Larson,Janitorial Staff,4,2023-02-08,42616.41
+78,79,Joe,Wilson,Cashier,3,2024-02-04,71636.53
+79,80,John,Wheeler,Manager,4,2022-11-06,102722.0
+80,81,Robert,Silva,Janitorial Staff,1,2022-05-28,34552.95
+81,82,Sarah,Harris,Janitorial Staff,1,2023-04-18,117209.66
+82,83,John,Foster,Cashier,2,2023-02-02,66577.27
+83,84,Kevin,Stewart,Butcher,2,2023-06-17,107818.54
+84,85,Charles,Ellis,Manager,2,2024-08-04,64107.58
+85,86,Wendy,Jones,Butcher,3,2020-12-24,113386.63
+86,87,Joseph,Mahoney,Butcher,3,2024-01-19,68070.67
+87,88,Natasha,Wood,Security,5,2020-09-22,89568.42
+88,89,Martha,Warner,Butcher,2,2022-10-24,47090.81
+89,90,Vanessa,Valdez,Cashier,1,2020-01-14,82126.23
+90,91,Lisa,Evans,Janitorial Staff,1,2023-01-19,97317.8
+91,92,Sheila,Taylor,Manager,1,2020-07-12,82575.98
+92,93,Daniel,Tran,Janitorial Staff,5,2021-04-02,44168.95
+93,94,Cassandra,Robbins,Janitorial Staff,1,2020-12-08,106620.83
+94,95,Cynthia,Baker,Manager,5,2022-03-31,36116.48
+95,96,Rebecca,Mathis,Cashier,4,2020-06-04,40789.8
+96,97,Rodney,Hill,Janitorial Staff,2,2020-01-06,82102.72
+97,98,Kellie,Walsh,Manager,5,2021-03-16,37378.51
+98,99,Joyce,Arnold,Security,5,2021-12-19,80870.42
+99,100,Alec,Jones,Clerk,3,2024-01-23,48383.33
+100,101,Rebecca,Gardner,Security,3,2023-11-03,51481.74
+101,102,Brandi,Hernandez,Butcher,2,2020-08-02,90452.12
+102,103,Kyle,Nolan,Clerk,4,2023-08-30,58455.95
+103,104,Michelle,Nolan,Manager,1,2020-12-18,71245.7
+104,105,John,Garcia,Janitorial Staff,1,2023-08-03,36593.46
+105,106,Nicole,Russell,Cashier,5,2022-11-08,53868.04
+106,107,Eric,Spears,Clerk,1,2023-12-23,109134.32
+107,108,Theresa,Cochran,Clerk,3,2024-01-20,44197.21
+108,109,Angel,Doyle,Janitorial Staff,3,2021-07-12,85051.0
+109,110,Sarah,Pham,Security,5,2023-12-22,30704.08
+110,111,Lisa,Adams,Janitorial Staff,3,2023-08-15,113858.04
+111,112,Daniel,Brennan,Manager,2,2023-12-13,53801.93
+112,113,Jeffrey,Velasquez,Manager,5,2022-02-12,43990.31
+113,114,Kevin,Pope,Clerk,5,2021-01-17,48956.67
+114,115,Andrew,Lee,Clerk,2,2021-07-05,91874.74
+115,116,Michelle,Rasmussen,Clerk,5,2021-04-13,73967.87
+116,117,Darlene,Ross,Manager,1,2024-07-06,87085.6
+117,118,Amanda,Crosby,Clerk,1,2020-07-12,30319.11
+118,119,Tara,White,Cashier,3,2024-06-05,44542.38
+119,120,Joseph,Rodriguez,Butcher,5,2021-12-31,93510.07
+120,121,Jessica,Edwards,Janitorial Staff,1,2022-10-15,40068.65
+121,122,William,Cruz,Security,2,2022-08-26,79103.13
+122,123,Jonathan,Fletcher,Clerk,5,2020-01-03,79727.26
+123,124,Sara,Ryan,Butcher,2,2023-04-23,33764.6
+124,125,Judy,Lambert,Clerk,1,2021-09-03,110903.22
+125,126,Chad,Beck,Cashier,2,2021-07-08,90024.01
+126,127,Lee,Charles,Clerk,5,2023-04-24,109572.12
+127,128,Kevin,Parker,Butcher,5,2021-11-17,97452.99
+128,129,Richard,Phillips,Cashier,2,2020-08-01,117858.54
+129,130,Robert,Bentley,Cashier,4,2023-02-11,32230.77
+130,131,Raven,Gilbert,Security,3,2021-05-20,100414.78
+131,132,Amy,Smith,Butcher,2,2021-04-27,54012.51
+132,133,Russell,Carpenter,Security,1,2023-01-04,64428.76
+133,134,Steven,Ramos,Manager,4,2020-12-25,50019.03
+134,135,Thomas,Santana,Butcher,3,2023-08-30,57467.18
+135,136,Gene,Miller,Cashier,2,2022-05-15,32129.8
+136,137,Cynthia,Rogers,Cashier,4,2023-10-06,59543.58
+137,138,Karen,Chambers,Manager,3,2021-01-12,61603.15
+138,139,James,Johnson,Janitorial Staff,4,2021-02-15,91156.63
+139,140,Thomas,Atkinson,Janitorial Staff,3,2020-05-02,114531.34
+140,141,Robert,Soto,Manager,3,2020-11-22,46071.1
+141,142,Heather,Snyder,Clerk,1,2021-02-13,39756.23
+142,143,Diana,Smith,Butcher,3,2023-06-15,95569.06
+143,144,Kayla,Rodriguez,Clerk,4,2021-12-15,84558.8
+144,145,Gregory,Rubio,Janitorial Staff,1,2022-05-20,64667.59
+145,146,Brent,Wright,Janitorial Staff,2,2023-11-26,52925.03
+146,147,Stephen,Solis,Security,4,2023-01-26,30152.22
+147,148,Vanessa,Larson,Janitorial Staff,2,2024-05-15,62779.93
+148,149,Patricia,Salazar,Manager,3,2023-04-23,86083.99
+149,150,William,Rivas,Security,1,2022-07-09,94777.88
+150,151,Phyllis,Manning,Clerk,5,2022-03-08,57835.62
+151,152,Jonathon,Wright,Butcher,3,2022-12-07,66216.03
+152,153,Katie,Boyd,Clerk,5,2022-11-18,41455.9
+153,154,Joshua,Jones,Butcher,4,2021-04-25,90958.62
+154,155,Joseph,Flores,Cashier,5,2022-06-26,81219.47
+155,156,Devon,Hall,Butcher,5,2023-03-11,105035.27
+156,157,Jasmine,Brown,Clerk,3,2021-11-15,48916.44
+157,158,Amy,Perry,Janitorial Staff,5,2020-12-13,88923.51
+158,159,Robert,Stein,Butcher,4,2022-09-08,69794.38
+159,160,Heather,Gates,Cashier,5,2023-07-10,72586.76
+160,161,Omar,Smith,Security,2,2021-08-13,89296.57
+161,162,Karen,Castaneda,Clerk,5,2024-05-20,89746.85
+162,163,Robert,Adkins,Janitorial Staff,3,2022-07-06,38404.85
+163,164,Carrie,Walker,Cashier,3,2021-01-03,50217.66
+164,165,Ryan,Johnson,Cashier,2,2021-07-18,32198.28
+165,166,Erin,Powell,Cashier,4,2020-10-04,85014.66
+166,167,Tanner,Anderson,Manager,4,2022-11-11,67299.69
+167,168,Anthony,Long,Security,5,2022-08-06,47499.17
+168,169,Anthony,Day,Security,4,2020-08-15,74493.95
+169,170,Steven,Williams,Cashier,2,2021-09-28,89045.22
+170,171,Jason,Murphy,Manager,1,2023-07-02,100057.84
+171,172,Nicholas,Walton,Cashier,2,2023-10-29,102369.89
+172,173,Johnny,Miller,Security,5,2020-02-02,71809.49
+173,174,Amber,Cooke,Janitorial Staff,2,2021-08-10,112572.3
+174,175,Debra,Harrington,Manager,4,2022-12-30,42000.52
+175,176,Karen,Herring,Butcher,5,2020-11-30,118910.32
+176,177,Andrew,Hernandez,Janitorial Staff,3,2020-07-31,115503.56
+177,178,Elizabeth,Elliott,Butcher,5,2021-01-01,103350.59
+178,179,Holly,Wang,Janitorial Staff,4,2020-10-08,104751.23
+179,180,Catherine,Adkins,Janitorial Staff,4,2020-07-11,110748.73
+180,181,Lori,Oconnell,Security,4,2020-06-30,70506.28
+181,182,Anthony,Collins,Cashier,3,2023-02-11,98923.23
+182,183,Susan,Sanders,Janitorial Staff,4,2023-04-16,86407.36
+183,184,Charles,Vaughn,Clerk,4,2022-11-19,36973.5
+184,185,Curtis,Barton,Clerk,2,2023-11-29,54454.36
+185,186,Caroline,Martinez,Clerk,5,2024-07-10,37251.99
+186,187,Kimberly,Reed,Cashier,2,2021-12-20,64473.18
+187,188,Mitchell,Hunter,Cashier,2,2021-07-27,35780.6
+188,189,Melissa,Short,Butcher,3,2020-06-26,78835.0
+189,190,Susan,Reid,Butcher,1,2023-10-24,48615.1
+190,191,Jasmine,Graham,Butcher,4,2023-05-17,111435.46
+191,192,Tammy,Nelson,Janitorial Staff,1,2023-09-19,107105.88
+192,193,Amanda,Webb,Janitorial Staff,4,2022-01-01,72928.18
+193,194,Jessica,Adams,Clerk,3,2023-12-01,97812.76
+194,195,Mariah,Miller,Butcher,5,2024-01-21,97276.41
+195,196,John,Marshall,Janitorial Staff,5,2022-10-22,110803.02
+196,197,Nicholas,Johnson,Butcher,2,2023-11-30,54564.18
+197,198,Hunter,Lewis,Butcher,1,2023-09-02,64997.15
+198,199,Matthew,Beard,Security,4,2023-03-23,95176.32
+199,200,Joshua,Smith,Butcher,2,2024-05-11,118264.98
+200,201,Christopher,Cortez,Janitorial Staff,1,2022-03-31,111623.6
+201,202,Katherine,Vaughn,Janitorial Staff,5,2022-12-21,89669.98
+202,203,Travis,Mcguire,Manager,4,2020-06-05,42212.95
+203,204,Jeffrey,Holt,Butcher,2,2021-05-29,34525.62
+204,205,Bonnie,Kennedy,Butcher,3,2022-06-10,49049.43
+205,206,Ronald,Reese,Clerk,3,2021-07-09,98510.67
+206,207,Jacqueline,Nelson,Butcher,3,2021-02-26,97680.88
+207,208,David,Lee,Butcher,3,2020-07-19,105141.98
+208,209,Amanda,Gill,Butcher,1,2020-11-07,97412.18
+209,210,Javier,Washington,Manager,3,2023-05-02,50179.99
+210,211,Tiffany,Warren,Manager,1,2021-04-20,97880.99
+211,212,Craig,Lee,Cashier,2,2021-01-17,105530.6
+212,213,Harry,Smith,Janitorial Staff,2,2022-06-16,51469.04
+213,214,Joshua,Mccann,Butcher,1,2022-07-18,80757.26
+214,215,Heidi,Martinez,Cashier,4,2023-12-30,92951.85
+215,216,Travis,Salas,Clerk,2,2022-08-22,84530.34
+216,217,Taylor,Alexander,Security,1,2020-11-05,100001.27
+217,218,Brett,Everett,Cashier,3,2022-03-13,39728.89
+218,219,Lynn,Morales,Manager,3,2020-05-04,81821.71
+219,220,Crystal,Brown,Butcher,4,2020-09-07,114732.35
+220,221,Anna,Torres,Cashier,1,2024-07-27,83288.81
+221,222,David,Duran,Security,2,2022-10-15,39171.12
+222,223,Krystal,Perez,Clerk,5,2022-05-27,102497.52
+223,224,Shannon,Ramos,Janitorial Staff,1,2023-12-16,61248.34
+224,225,Veronica,Torres,Butcher,3,2022-11-09,36206.11
+225,226,Chelsea,Singh,Security,3,2024-05-10,31138.69
+226,227,Jared,Clark,Butcher,4,2023-01-14,39498.5
+227,228,Eric,Thompson,Clerk,4,2020-05-06,93657.78
+228,229,Aaron,Hayes,Butcher,2,2022-09-24,96041.58
+229,230,Kelly,Hall,Security,3,2023-04-02,85432.11
+230,231,Jacqueline,Gibson,Janitorial Staff,4,2023-02-28,71838.64
+231,232,Sandra,French,Security,5,2022-11-16,54155.6
+232,233,Donna,Peck,Cashier,1,2021-12-15,55103.54
+233,234,Amy,Holland,Butcher,2,2024-03-06,97542.87
+234,235,Margaret,Jones,Janitorial Staff,5,2020-10-05,90136.96
+235,236,Kyle,Curry,Clerk,1,2022-08-14,74487.59
+236,237,Keith,Martinez,Clerk,2,2023-03-02,73879.49
+237,238,Holly,Bender,Clerk,3,2022-04-20,60630.5
+238,239,Troy,Miller,Janitorial Staff,3,2020-03-07,80021.19
+239,240,Ryan,Morris,Janitorial Staff,2,2021-02-24,37705.17
+240,241,Christopher,Hayden,Security,4,2023-11-05,73972.01
+241,242,Barbara,Sampson,Cashier,4,2024-08-06,88131.26
+242,243,Emily,Adams,Butcher,4,2020-03-08,101363.96
+243,244,Katelyn,Ruiz,Manager,3,2022-12-30,49943.68
+244,245,Sabrina,White,Security,2,2022-09-10,57558.54
+245,246,Cynthia,Vasquez,Janitorial Staff,3,2020-06-02,72593.44
+246,247,Michael,Cook,Janitorial Staff,3,2023-01-30,68295.34
+247,248,Mia,Rivera,Security,5,2023-03-11,59771.22
+248,249,Keith,Landry,Security,4,2023-09-28,54382.48
+249,250,Andrea,Gibson,Clerk,2,2021-06-12,40859.03
+250,251,Marcus,Cordova,Cashier,3,2021-11-10,40759.93
+251,252,Xavier,Travis,Janitorial Staff,2,2023-01-09,47238.69
+252,253,Amy,Gutierrez,Security,4,2020-11-11,54884.97
+253,254,Michael,Avila,Janitorial Staff,5,2022-11-16,83711.17
+254,255,Kathleen,Harris,Manager,2,2022-07-11,56662.18
+255,256,Sara,Kim,Clerk,2,2023-03-19,57204.08
+256,257,David,Dudley,Security,5,2022-10-19,41392.47
+257,258,John,Moore,Manager,1,2022-07-14,79802.31
+258,259,Andrea,Davis,Security,2,2024-07-24,87408.27
+259,260,Robin,Murray,Butcher,1,2020-07-16,108544.78
+260,261,Marilyn,Jimenez,Janitorial Staff,3,2023-04-18,72245.73
+261,262,William,Hill,Butcher,3,2023-11-03,46592.73
+262,263,Tina,Sanchez,Manager,3,2022-07-15,114695.72
+263,264,Patrick,Weeks,Butcher,1,2022-05-03,103990.41
+264,265,Natasha,Shields,Butcher,4,2021-04-09,36667.4
+265,266,Kristy,Perry,Security,1,2024-04-18,43655.43
+266,267,William,Hoover,Janitorial Staff,3,2021-04-20,37666.28
+267,268,Kenneth,Matthews,Cashier,1,2024-08-05,80226.57
+268,269,Tracy,Hernandez,Butcher,5,2022-06-23,83651.42
+269,270,Michael,Arnold,Janitorial Staff,2,2022-07-01,99812.42
+270,271,Stanley,Morris,Butcher,4,2020-11-12,111765.39
+271,272,Heidi,Armstrong,Clerk,5,2021-01-27,119102.81
+272,273,Kimberly,Williams,Clerk,5,2023-06-05,85892.46
+273,274,Janet,Shepherd,Janitorial Staff,1,2021-10-10,115283.12
+274,275,Elizabeth,Hoover,Cashier,2,2024-07-05,53818.15
+275,276,Tyler,Johnson,Manager,2,2022-04-23,51587.87
+276,277,Brittany,Kane,Janitorial Staff,1,2024-01-08,44087.94
+277,278,Scott,Fox,Butcher,4,2022-02-06,92043.4
+278,279,Jennifer,Ortiz,Butcher,3,2023-01-05,32937.59
+279,280,Eric,Harrison,Clerk,3,2024-06-16,93268.88
+280,281,Matthew,Schwartz,Butcher,1,2022-12-27,91864.64
+281,282,Melissa,Phelps,Clerk,5,2023-12-14,89506.47
+282,283,Norman,Stewart,Cashier,4,2023-04-22,40329.87
+283,284,Katherine,Brennan,Cashier,2,2020-03-01,111757.03
+284,285,Casey,Welch,Cashier,1,2024-03-27,35367.42
+285,286,Wendy,Francis,Clerk,5,2021-12-30,97406.19
+286,287,Corey,Schultz,Janitorial Staff,3,2024-01-05,69523.81
+287,288,Scott,Benson,Butcher,3,2024-02-26,92976.03
+288,289,Brandon,Flynn,Clerk,5,2021-05-07,78598.34
+289,290,Nicholas,Thomas,Butcher,1,2022-06-11,83823.3
+290,291,Ashlee,Sparks,Butcher,3,2020-10-12,84334.23
+291,292,Christian,Pitts,Manager,1,2022-11-07,50603.2
+292,293,John,Durham,Security,5,2020-08-28,82841.06
+293,294,Steven,King,Manager,3,2021-03-04,81862.23
+294,295,Albert,Ballard,Cashier,4,2024-02-23,76706.75
+295,296,Erica,Moore,Butcher,3,2022-01-12,46334.02
+296,297,Michael,Matthews,Janitorial Staff,4,2022-12-09,87130.62
+297,298,Roger,Wright,Butcher,1,2023-11-21,72300.94
+298,299,James,Cruz,Butcher,3,2022-03-22,58895.24
+299,300,John,Armstrong,Manager,2,2022-08-23,59682.33
+300,301,Victoria,Phillips,Security,4,2024-06-30,55939.6
+301,302,Dominique,Hill,Butcher,5,2022-08-08,33302.74
+302,303,Gina,Garner,Manager,3,2020-03-23,52715.9
+303,304,Catherine,Crawford,Manager,4,2024-02-27,107841.95
+304,305,Justin,Lindsey,Manager,5,2022-10-16,71577.87
+305,306,Michael,Fields,Manager,2,2022-11-09,76659.55
+306,307,Erica,Le,Janitorial Staff,4,2023-01-12,86286.79
+307,308,Mary,Fuller,Manager,2,2024-02-26,54035.06
+308,309,Debbie,Parker,Cashier,3,2022-01-10,69430.45
+309,310,Bethany,Oconnor,Security,4,2020-05-31,40928.35
+310,311,Kenneth,Burgess,Security,5,2020-10-22,101938.24
+311,312,David,Ryan,Security,2,2024-06-20,57967.51
+312,313,Alyssa,Mcintyre,Manager,5,2023-10-27,66719.16
+313,314,Jonathan,Summers,Cashier,1,2022-03-20,71530.31
+314,315,Lindsay,Francis,Manager,2,2021-07-23,74853.8
+315,316,Darius,Mccarty,Security,3,2020-08-24,75798.48
+316,317,Tammy,Dalton,Clerk,4,2023-05-01,105125.16
+317,318,Tina,Coffey,Butcher,2,2023-09-13,71110.78
+318,319,Michael,Gibbs,Cashier,4,2020-01-24,47154.93
+319,320,Amanda,Gibson,Janitorial Staff,5,2023-02-04,97166.33
+320,321,Emily,Richards,Cashier,1,2023-10-13,54862.27
+321,322,Shelby,Rodriguez,Butcher,3,2021-01-27,114082.36
+322,323,Angel,Henson,Janitorial Staff,3,2022-08-01,103849.45
+323,324,Rose,Walker,Clerk,3,2020-04-16,105372.83
+324,325,Madison,Blankenship,Janitorial Staff,4,2021-05-22,107873.45
+325,326,Ricky,Taylor,Butcher,5,2024-05-08,73590.72
+326,327,Kevin,Vasquez,Clerk,5,2020-06-12,98658.54
+327,328,Paige,Taylor,Butcher,4,2022-02-01,113956.7
+328,329,Ellen,Paul,Cashier,2,2024-05-08,81461.79
+329,330,Robert,Newton,Cashier,4,2020-09-16,33928.26
+330,331,Robert,Garcia,Security,4,2022-04-02,93470.51
+331,332,Ricky,Lynn,Butcher,4,2020-02-24,118957.26
+332,333,Mitchell,Ramos,Security,2,2024-05-15,74579.58
+333,334,Melissa,Garcia,Manager,2,2023-02-25,75206.2
+334,335,Amy,Levine,Janitorial Staff,3,2021-08-25,108273.03
+335,336,Raymond,Lopez,Butcher,1,2020-07-24,77335.6
+336,337,Melanie,Gibson,Butcher,1,2023-01-18,95019.94
+337,338,Darlene,Harper,Butcher,2,2020-02-05,36734.54
+338,339,Kristin,Sanchez,Clerk,3,2020-07-30,86093.35
+339,340,Anne,Jones,Butcher,1,2023-07-09,106658.88
+340,341,Jamie,Robinson,Security,5,2024-01-01,64200.85
+341,342,Mark,Hernandez,Clerk,4,2024-02-21,108514.47
+342,343,Aaron,Garrison,Manager,5,2020-08-31,36157.87
+343,344,David,King,Security,3,2020-10-20,119768.33
+344,345,Donna,Johnson,Security,1,2020-01-25,69057.43
+345,346,Kristy,Young,Manager,1,2021-06-27,69931.07
+346,347,Grant,Williams,Security,3,2023-05-31,111308.17
+347,348,Alicia,Reese,Manager,3,2022-03-11,101652.91
+348,349,Kimberly,Palmer,Clerk,3,2020-07-02,63735.7
+349,350,William,Dougherty,Cashier,2,2020-03-13,77804.97
+350,351,Krista,Camacho,Janitorial Staff,2,2022-05-26,45298.53
+351,352,Stephen,Maynard,Manager,5,2020-04-12,108375.56
+352,353,Timothy,Morales,Janitorial Staff,2,2023-02-26,74790.05
+353,354,Tracy,Browning,Janitorial Staff,2,2020-05-03,50896.96
+354,355,Christopher,Franklin,Security,3,2020-04-20,71361.34
+355,356,Joshua,Schultz,Security,1,2022-07-10,110901.77
+356,357,Mark,Vang,Butcher,3,2022-06-10,90984.98
+357,358,Shawn,Jacobs,Cashier,1,2020-06-15,69755.68
+358,359,Jacqueline,Farrell,Clerk,5,2022-12-29,56923.88
+359,360,Kayla,Le,Butcher,3,2020-12-27,71115.22
+360,361,Shannon,Perez,Clerk,2,2021-07-23,119943.62
+361,362,Shawn,Perry,Butcher,1,2020-06-08,51348.51
+362,363,Ronald,Ortega,Janitorial Staff,3,2021-09-20,81733.07
+363,364,Elijah,Leblanc,Security,3,2020-04-22,31974.56
+364,365,Marie,Davis,Security,4,2020-06-11,54703.23
+365,366,Joanne,Cain,Janitorial Staff,1,2022-07-23,111955.53
+366,367,Brenda,Hoffman,Security,4,2021-07-07,104955.5
+367,368,David,Gomez,Clerk,2,2023-01-22,84635.85
+368,369,Karen,Parrish,Clerk,2,2023-04-26,87295.61
+369,370,Tanya,Burke,Janitorial Staff,3,2021-08-13,90998.8
+370,371,Becky,Lewis,Security,2,2023-01-08,86542.33
+371,372,Jeffrey,Rodriguez,Security,1,2023-11-21,57803.96
+372,373,Michael,Farmer,Butcher,1,2022-08-22,82161.64
+373,374,Lindsay,Bruce,Security,2,2024-06-25,38112.0
+374,375,Loretta,Austin,Clerk,3,2022-12-15,97273.28
+375,376,Anthony,Hickman,Cashier,2,2023-10-25,41894.38
+376,377,Joseph,White,Janitorial Staff,3,2023-03-26,77776.71
+377,378,Kyle,Morgan,Clerk,2,2020-01-11,53127.31
+378,379,Molly,Knight,Butcher,3,2021-11-04,97190.34
+379,380,Donald,Schultz,Clerk,1,2020-02-21,72149.82
+380,381,Julie,Lewis,Manager,2,2021-12-06,97873.63
+381,382,Matthew,Wood,Cashier,4,2023-04-27,117054.28
+382,383,Kimberly,Bradley,Janitorial Staff,3,2020-05-22,38127.26
+383,384,Brian,Moore,Butcher,1,2022-11-03,53801.27
+384,385,Emily,Nelson,Manager,4,2023-01-17,63172.71
+385,386,Todd,Ramos,Security,3,2021-04-03,82610.41
+386,387,Kari,Wilson,Security,3,2021-12-23,39751.15
+387,388,Justin,Gregory,Cashier,4,2022-03-28,32252.22
+388,389,Elizabeth,Williams,Janitorial Staff,3,2021-10-26,112373.03
+389,390,Carol,Smith,Cashier,1,2021-05-21,87186.35
+390,391,Jason,Taylor,Butcher,3,2021-03-05,88431.55
+391,392,Mark,Smith,Manager,2,2023-06-08,34081.21
+392,393,Gregory,James,Manager,3,2023-03-28,119633.46
+393,394,Vincent,Whitaker,Manager,1,2023-09-16,51132.0
+394,395,Charles,Hensley,Janitorial Staff,2,2020-03-12,64978.12
+395,396,Andrew,Morse,Clerk,5,2023-12-19,67721.41
+396,397,Barbara,Berry,Security,2,2023-04-06,109687.24
+397,398,Robert,Wilson,Security,1,2020-02-05,105032.38
+398,399,Mark,Solis,Janitorial Staff,4,2022-11-04,114514.78
+399,400,Marilyn,Gillespie,Clerk,1,2020-05-28,92125.26
+400,401,Megan,Sanchez,Cashier,4,2022-09-16,70022.63
+401,402,Alexandria,Foster,Cashier,3,2021-06-05,38941.92
+402,403,Matthew,Cook,Security,3,2020-10-09,79001.93
+403,404,William,Wilson,Security,3,2022-05-06,35449.51
+404,405,Rebecca,Bailey,Clerk,2,2023-05-06,117138.62
+405,406,Lori,Briggs,Butcher,1,2021-01-31,89649.19
+406,407,Dwayne,Gonzalez,Security,5,2022-10-09,117398.4
+407,408,Kathleen,Rios,Manager,3,2020-10-24,51921.2
+408,409,Kendra,Snyder,Cashier,5,2023-06-21,48468.5
+409,410,Kathleen,Cole,Janitorial Staff,2,2024-04-01,82774.48
+410,411,Anne,Reid,Cashier,3,2022-11-15,99693.17
+411,412,Michelle,Burton,Janitorial Staff,1,2020-09-10,54954.74
+412,413,Carlos,Ramos,Cashier,2,2021-05-23,78619.39
+413,414,Joshua,Brown,Cashier,1,2022-05-02,89495.19
+414,415,Lance,Hayes,Manager,2,2020-04-05,31337.43
+415,416,Marie,Jones,Cashier,5,2023-12-22,59139.43
+416,417,Melissa,Gilbert,Cashier,3,2022-05-01,34715.91
+417,418,Steven,Spencer,Security,4,2023-08-23,77347.7
+418,419,Paula,Cole,Security,1,2023-09-22,72862.14
+419,420,Denise,Morris,Clerk,5,2022-03-10,83429.94
+420,421,Edward,Brown,Butcher,5,2020-06-22,49939.48
+421,422,Rachel,Cooper,Janitorial Staff,1,2023-04-15,95451.87
+422,423,William,Thompson,Security,5,2021-02-20,57146.73
+423,424,Samuel,Gonzales,Security,1,2022-05-28,35474.29
+424,425,Erik,Watson,Butcher,4,2021-04-20,68364.63
+425,426,Riley,Morgan,Manager,4,2022-10-01,94116.12
+426,427,Kristina,Holland,Butcher,1,2020-04-20,110934.01
+427,428,Cody,Gregory,Clerk,5,2021-04-22,43350.04
+428,429,Jennifer,Douglas,Cashier,3,2024-03-02,86188.57
+429,430,Morgan,Cook,Janitorial Staff,5,2022-09-06,94093.75
+430,431,Donald,Bailey,Butcher,5,2024-06-13,77750.12
+431,432,Holly,Myers,Butcher,5,2022-09-26,84488.41
+432,433,Sharon,Collins,Manager,1,2021-09-24,106751.35
+433,434,Latasha,Li,Security,5,2023-01-30,94875.59
+434,435,Maria,Rodgers,Cashier,4,2023-02-25,70639.94
+435,436,Alicia,Lucas,Cashier,4,2021-12-12,60503.85
+436,437,Michael,Cox,Butcher,4,2020-10-29,67439.07
+437,438,Jason,Meza,Manager,3,2022-03-27,68408.76
+438,439,Jeremy,Taylor,Security,3,2020-05-09,63687.09
+439,440,Megan,Garcia,Cashier,4,2023-07-19,36042.0
+440,441,Mary,Stephenson,Manager,1,2020-03-04,68868.89
+441,442,Matthew,Miranda,Security,3,2020-08-08,103059.24
+442,443,Nicholas,Martin,Janitorial Staff,1,2023-10-28,82781.86
+443,444,Kellie,Lamb,Janitorial Staff,5,2020-10-05,59668.14
+444,445,Samuel,Jenkins,Manager,4,2023-02-10,61823.83
+445,446,John,Wallace,Security,4,2021-04-23,108128.29
+446,447,Kaitlyn,Cole,Security,1,2022-06-16,117155.88
+447,448,Kyle,Stokes,Janitorial Staff,3,2022-02-26,61648.16
+448,449,Mary,Richardson,Janitorial Staff,5,2024-05-10,49146.49
+449,450,Tracey,Murray,Security,4,2021-04-18,50182.04
+450,451,Patrick,Rose,Manager,3,2024-06-11,106083.61
+451,452,Lisa,Solis,Clerk,1,2020-08-20,98634.51
+452,453,John,Davidson,Janitorial Staff,2,2024-01-08,102649.92
+453,454,Angela,Garcia,Janitorial Staff,5,2023-11-22,85221.6
+454,455,Melissa,Mitchell,Security,5,2023-07-06,32362.84
+455,456,Joshua,Whitehead,Security,3,2020-09-04,32605.79
+456,457,Samuel,Potts,Clerk,3,2021-01-08,112938.38
+457,458,Shannon,Bailey,Clerk,1,2020-02-14,46326.5
+458,459,Brian,Shaw,Cashier,5,2021-01-31,89161.02
+459,460,Virginia,Brooks,Manager,2,2020-02-17,96687.22
+460,461,Sarah,Combs,Manager,1,2022-12-27,97150.06
+461,462,Lacey,Taylor,Cashier,4,2021-04-26,67784.92
+462,463,Maria,Horton,Clerk,2,2020-08-21,63304.78
+463,464,Janice,West,Security,3,2020-01-09,99915.21
+464,465,Christian,Scott,Janitorial Staff,5,2023-11-03,37646.13
+465,466,Ana,Acosta,Manager,2,2022-06-05,44166.89
+466,467,Daniel,Roberts,Janitorial Staff,1,2021-05-20,90657.18
+467,468,Brandon,Barnes,Clerk,4,2023-08-26,89574.48
+468,469,Stephen,Rodriguez,Butcher,5,2024-02-29,69783.98
+469,470,Candice,Smith,Clerk,2,2022-05-15,97944.88
+470,471,John,Thomas,Manager,3,2021-12-22,68692.23
+471,472,Christina,Allen,Clerk,5,2021-11-30,73796.95
+472,473,Elizabeth,Miller,Security,3,2024-06-25,34087.56
+473,474,Carlos,Fox,Butcher,5,2022-05-02,34930.38
+474,475,Vanessa,Spencer,Cashier,3,2021-10-17,115079.17
+475,476,Theodore,Reid,Cashier,3,2024-07-06,56050.24
+476,477,Jon,Smith,Manager,1,2023-08-17,74764.68
+477,478,Michael,Quinn,Butcher,2,2022-11-21,41626.71
+478,479,Kelsey,Moss,Janitorial Staff,2,2021-07-12,75023.61
+479,480,Bradley,Payne,Security,3,2023-09-28,36486.79
+480,481,Gregory,Maxwell,Security,1,2022-02-19,69259.76
+481,482,Heather,Welch,Butcher,1,2023-09-25,107589.9
+482,483,Bryan,Parsons,Janitorial Staff,4,2022-02-07,81605.97
+483,484,Kelly,Williams,Security,4,2020-12-01,56056.37
+484,485,Bobby,Mahoney,Butcher,1,2022-05-15,116957.97
+485,486,Veronica,Daniels,Cashier,5,2021-03-01,71408.72
+486,487,Karen,Lee,Security,3,2021-08-22,37931.69
+487,488,Kimberly,Glenn,Manager,2,2021-07-11,69210.89
+488,489,David,Richardson,Butcher,5,2024-02-03,37078.24
+489,490,Julia,Kline,Clerk,3,2021-10-11,49941.49
+490,491,Terri,Crawford,Cashier,1,2022-04-15,75943.5
+491,492,Sandra,Stone,Manager,5,2023-09-07,75895.69
+492,493,Jessica,Miller,Clerk,3,2022-10-09,95464.12
+493,494,Lynn,Gardner,Security,2,2021-06-23,51264.2
+494,495,Christopher,Guerrero,Cashier,3,2021-05-29,47754.46
+495,496,Carrie,Simmons,Janitorial Staff,2,2023-03-04,98419.38
+496,497,Michael,Williams,Security,1,2024-01-01,45943.15
+497,498,Michael,Bolton,Security,4,2021-04-06,71755.78
+498,499,Tina,Gould,Janitorial Staff,5,2020-05-06,70401.47
+499,500,Dana,Cox,Janitorial Staff,5,2023-09-07,59088.74
